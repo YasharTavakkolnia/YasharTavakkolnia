@@ -12,17 +12,6 @@ Developer
 ### Skills
 <p align="left">
 
-# My Skills
-
-## Languages
-- Kotlin ![Kotlin Logo](https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png)
-- Python ![Python Logo](https://raw.githubusercontent.com/github/explore/master/topics/python/python.png)
-
-## Libraries & Frameworks
-- Jetpack Compose ![Jetpack Compose Logo](https://raw.githubusercontent.com/github/explore/master/topics/jetpack-compose/jetpack-compose.png)
-- MVVM Architecture ![MVVM Architecture](https://raw.githubusercontent.com/github/explore/master/topics/mvvm/mvvm.png)
-
-
 </p>
                     
 ### Socials
